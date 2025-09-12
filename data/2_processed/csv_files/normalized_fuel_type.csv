@@ -1,0 +1,16 @@
+fuel_type_id,fuel_type
+1,hydro
+2,solar
+3,gas
+4,other
+5,oil
+6,wind
+7,nuclear
+8,coal
+9,waste
+10,biomass
+11,wave and tidal
+12,petcoke
+13,geothermal
+14,storage
+15,cogeneration

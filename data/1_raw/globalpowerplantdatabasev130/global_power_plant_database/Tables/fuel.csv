@@ -1,0 +1,15 @@
+fuel_id,fuel_name
+1,Coal
+2,Biomass
+3,Cogeneration
+4,Gas
+5,Geothermal
+6,Hydro
+7,Nuclear
+8,Oil
+9,Other
+10,Petcoke
+11,Solar
+12,Storage
+13,Waste
+14,Wave and Tidal

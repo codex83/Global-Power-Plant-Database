@@ -1,6 +1,6 @@
 # Global Power Plant Database: An End-to-End Data Engineering Project
 
-![MySQL EER Diagram](database/model/data_eng_proj.png)
+![MySQL EER Diagram](database/model/EER.png)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
